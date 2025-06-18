@@ -12,6 +12,10 @@ developer: Vinc
 website: https://umbrel.com
 submitter: Vinc
 repo: https://github.com/vinc1347900/Minerhub
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
 dependencies: []
 path: ""
 defaultUsername: "admin"
