@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: minerhub-graph
 name: MinerhubGraph
-icon: https://svgur.com/i/mvA.svg
+tagline: The open-source platform for monitoring and observability
 category: networking
 version: "1.0.0"
 port: 3030
