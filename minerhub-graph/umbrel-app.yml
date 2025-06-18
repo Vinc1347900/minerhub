@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: minerhub-graph
-name: Minerhub
+name: MinerhubGraph
 icon: https://svgur.com/i/mvA.svg
 category: networking
 version: "1.0.0"
