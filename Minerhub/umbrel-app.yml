@@ -1,0 +1,18 @@
+manifestVersion: 1
+id: minerhub-graph
+name: Minerhub
+icon: https://svgur.com/i/mvA.svg
+category: networking
+version: "1.0.0"
+port: 3030
+description: >-
+  Minerhub run on Graphana and InfluxDB, it is a powerful tool for monitoring and managing your mining operations. It provides real-time insights into your mining performance, allowing you to optimize your setup for maximum efficiency and profitability.
+
+developer: Vinc
+website: https://umbrel.com
+submitter: Vinc
+repo: https://github.com/vinc1347900/Minerhub
+dependencies: []
+path: ""
+defaultUsername: "admin"
+defaultPassword: "@AsZdEf"
